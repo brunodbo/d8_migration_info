@@ -1,6 +1,6 @@
-# Drupal 8 migration info
+# Drupal 6/7 => Drupal 8 migration info
 
-A list of (hopefully) helpful links pertaining to Drupal 8 migration. This is what I'm reading to figure out how to do my first D7 => D8 migration
+A list of (hopefully) helpful links pertaining to Drupal 6/7 to Drupal 8 migration. This is what I'm reading to figure out how to do my first D7 => D8 migration.
 
 **Docs/guides**:
 
